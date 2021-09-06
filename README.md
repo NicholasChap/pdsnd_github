@@ -12,7 +12,7 @@ This project provides some analytics from of US BikeShare data from Chicago, Was
 The project allows a user to choose the city and times they would like to view summary data.
 
 ### Files used
-Include the files used
+Project analyses data from chicago.csv, new_york_city.csv, and washington.csv. All files are included in .gitignore file
 
 ### Credits
 It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
