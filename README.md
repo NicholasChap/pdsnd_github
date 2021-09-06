@@ -7,7 +7,9 @@ Project/README forked from https://github.com/udacity/pdsnd_github on 9/6/2021
 BikeShare Data Analysis
 
 ### Description
-Describe what your project is about and what it does
+This project provides some analytics from of US BikeShare data from Chicago, Washington and New York City.
+
+The project allows a user to choose the city and times they would like to view summary data.
 
 ### Files used
 Include the files used
