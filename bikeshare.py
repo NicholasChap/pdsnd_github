@@ -192,6 +192,7 @@ def user_stats(df, city):
     print('-'*40)
 
 def print_data(df, start_row): #This function asks the user to provide a number of rows to display, and displays that many additional rows
+    pd.set_option('display.max_columns',200)
     if start_row == 0:
         data_view = input("Would you like to see rows of the original data (Y/N)? ").lower()[0]
         if data_view != "y":
