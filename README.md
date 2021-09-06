@@ -15,4 +15,6 @@ The project allows a user to choose the city and times they would like to view s
 Project analyses data from chicago.csv, new_york_city.csv, and washington.csv. All files are included in .gitignore file
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
+Thanks to :
+https://www.atlassian.com/ for git command usage
+https://git-scm.com/ for git syntax
